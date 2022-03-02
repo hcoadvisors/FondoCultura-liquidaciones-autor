@@ -1,0 +1,1 @@
+SELECT "U_HCO_LostAcct", "U_HCO_PasiAcct" FROM OADM

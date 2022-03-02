@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<UserFields>
+  <UserField>
+    <TableID>OADM</TableID>
+    <FieldID>1</FieldID>
+    <AliasID>HCO_LostAcct</AliasID>
+    <Descr>Cta. Perdida Regalias</Descr>
+    <Tipo>0</Tipo>
+    <SubTipo>0</SubTipo>
+    <SizeID>15</SizeID>
+    <EditSize>15</EditSize>
+    <Dflt/>
+    <NotNull>N</NotNull>
+    <IndexID>N</IndexID>
+    <RTable/>
+    <RField/>
+    <Action/>
+    <Sys>N</Sys>
+    <ValidValues/>
+  </UserField>
+  <UserField>
+    <TableID>OADM</TableID>
+    <FieldID>1</FieldID>
+    <AliasID>HCO_PasiAcct</AliasID>
+    <Descr>Cta. Pasivo Regalias</Descr>
+    <Tipo>0</Tipo>
+    <SubTipo>0</SubTipo>
+    <SizeID>15</SizeID>
+    <EditSize>15</EditSize>
+    <Dflt/>
+    <NotNull>N</NotNull>
+    <IndexID>N</IndexID>
+    <RTable/>
+    <RField/>
+    <Action/>
+    <Sys>N</Sys>
+    <ValidValues/>
+  </UserField>
+  <UserField>
+    <TableID>OINV</TableID>
+    <FieldID>3</FieldID>
+    <AliasID>HCO_Liquidated</AliasID>
+    <Descr>Liquidado</Descr>
+    <Tipo>0</Tipo>
+    <SubTipo>0</SubTipo>
+    <SizeID>1</SizeID>
+    <EditSize>1</EditSize>
+    <Dflt/>
+    <NotNull>N</NotNull>
+    <IndexID>N</IndexID>
+    <RTable/>
+    <RField/>
+    <Action/>
+    <Sys>N</Sys>
+    <ValidValues>
+      <ValidValue>
+        <FldValue>N</FldValue>
+        <Descr>No</Descr>
+      </ValidValue>
+      <ValidValue>
+        <FldValue>S</FldValue>
+        <Descr>Si</Descr>
+      </ValidValue>
+    </ValidValues>
+  </UserField>
+</UserFields>
